@@ -1,0 +1,7 @@
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\bin\Debug\BooksDataBase.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\bin\Debug\BooksDataBase.exe
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\bin\Debug\BooksDataBase.pdb
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\obj\Debug\BooksDataBase.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\obj\Debug\BooksDataBase.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\obj\Debug\BooksDataBase.exe
+C:\Users\yeray.blanco.aldao\source\repos\BooksDataBase\BooksDataBase\obj\Debug\BooksDataBase.pdb
